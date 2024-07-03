@@ -1,708 +1,140 @@
-Contribution: 2019-01-07 20:00
+<div align="center">
+    <a href="https://www.idurarapp.com/">
+  <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
+    </a>
+    <h1>Open "Fair-Code" Source ERP / CRM | Node.js React.js</h1>
+    <p align="center">
+        <p>IDURAR ERP CRM | Simple To Use | 44 Languages </p>
+    </p>
+    
+  [www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
 
-Contribution: 2019-01-07 20:01
+## 🇦🇱 🇩🇿 🇧🇩 🇧🇬 🇨🇳 🇭🇷 🇨🇿 🇩🇰 🇳🇱 🇺🇸 🇪🇪 🇫🇷 🇩🇪 🇬🇷 🇮🇳 🇭🇺 🇮🇩 🇮🇹 🇯🇵 🇰🇷 🇱🇻 🇱🇹 🇲🇰 🇲🇾 🇳🇴 🇵🇱 🇧🇷 🇵🇹 🇮🇷 🇷🇴 🇷🇺 🇸🇰 🇸🇮 🇪🇸 🇸🇪 🇹🇭 🇹🇷 🇺🇦 🇵🇰 🇻🇳 🇷🇸 🇪🇦 🇵🇭 🇫🇮
 
-Contribution: 2019-01-07 20:02
+IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Advanced Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
-Contribution: 2019-01-07 20:03
+</div>
 
-Contribution: 2019-01-07 20:04
+**Live App Free Cloud Version** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
 
-Contribution: 2019-01-07 20:05
+```
+🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩`
+```
 
-Contribution: 2019-01-07 20:06
+## Translation :
 
-Contribution: 2019-01-09 20:00
+[French](doc/README.fr.md#French-Translation) , [Spanish](doc/README.sp.md#Spanish-Translation)
 
-Contribution: 2019-01-09 20:01
+## License
 
-Contribution: 2019-01-09 20:02
+IDURAR is Free Open Source [fair-code](http://faircode.io) distributed under the
+[**IDURAR License 1.0**](https://github.com/idurar/idurar-erp-crm/blob/master/LICENSE)
 
-Contribution: 2019-01-09 20:03
+### Upgrade to IDURAR Premium :
 
-Contribution: 2019-01-09 20:04
+- [https://cloud.idurarapp.com/checkout/selfhosted/month/pri_01hyjjay1njx5vz1z6e1vdy1eg](https://cloud.idurarapp.com/checkout/selfhosted/month/pri_01hyjjay1njx5vz1z6e1vdy1eg)
 
-Contribution: 2019-01-09 20:05
+## Features :
 
-Contribution: 2019-01-09 20:06
+Invoice Management 💰
 
-Contribution: 2019-01-14 20:00
+Accounting Management 📈
 
-Contribution: 2019-01-15 20:00
+HR Management 🧑‍🤝‍🧑
 
-Contribution: 2019-01-15 20:01
+Ant Design Framework(AntD) 🐜
 
-Contribution: 2019-01-15 20:02
+Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
 
-Contribution: 2019-01-15 20:03
+### May i can use IDURAR for Commercial use :
 
-Contribution: 2019-01-15 20:04
+- Yes You can use IDURAR for free for personal or Commercial use.
 
-Contribution: 2019-01-15 20:05
+### For custom developement service or premium Support :
 
-Contribution: 2019-01-15 20:06
+[Get in touch](mailto:hello@idurarapp.com)
 
-Contribution: 2019-01-16 20:00
+## How To Deploy IDURAR ERP CRM :
 
-Contribution: 2019-01-16 20:01
+🔥 I would like to invite you for a weekly free IDURAR Webinar (Node.js React.js course), where you learn how to deploy IDURAR on cloud , and create a new api and new crud app with IDURAR in just one hour ?
+Please fill this form if you are interested : [https://forms.gle/qz2YZ3xQFQ77bGhS8](https://forms.gle/qz2YZ3xQFQ77bGhS8)
 
-Contribution: 2019-01-16 20:02
+The Webinar will be this Wednesday at 1pm GMT.
 
-Contribution: 2019-01-16 20:03
+## Our Sponsors
 
-Contribution: 2019-01-16 20:04
+  <a href="https://m.do.co/c/4ead8370b905?ref=idurarapp.com">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="201px">
+  </a>
 
-Contribution: 2019-01-16 20:05
+#
 
-Contribution: 2019-01-16 20:06
+<img width="1403" alt="Open Source ERP CRM" src="https://github.com/idurar/idurar-erp-crm/assets/136928179/a6712286-7ca6-4822-8902-fb7523533ee8">
 
-Contribution: 2019-01-16 20:07
+## Free Open Source ERP / CRM App
 
-Contribution: 2019-01-16 20:08
+IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
-Contribution: 2019-01-18 20:00
+**Live App Demo** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
 
-Contribution: 2019-01-18 20:01
+## Getting started
 
-Contribution: 2019-01-24 20:00
+1.[Clone the repository](INSTALLATION-INSTRUCTIONS.md#step-1-clone-the-repository)
 
-Contribution: 2019-01-25 20:00
+2.[Create Your MongoDB Account and Database Cluster](INSTALLATION-INSTRUCTIONS.md#Step-2-Create-Your-MongoDB-Account-and-Database-Cluster)
 
-Contribution: 2019-01-25 20:01
+3.[Edit the Environment File](INSTALLATION-INSTRUCTIONS.md#Step-3-Edit-the-Environment-File)
 
-Contribution: 2019-01-25 20:02
+4.[Update MongoDB URI](INSTALLATION-INSTRUCTIONS.md#Step-4-Update-MongoDB-URI)
 
-Contribution: 2019-02-01 20:00
+5.[Install Backend Dependencies](INSTALLATION-INSTRUCTIONS.md#Step-5-Install-Backend-Dependencies)
 
-Contribution: 2019-02-01 20:01
+6.[Run Setup Script](INSTALLATION-INSTRUCTIONS.md#Step-6-Run-Setup-Script)
 
-Contribution: 2019-02-01 20:02
+7.[Run the Backend Server](INSTALLATION-INSTRUCTIONS.md#Step-7-Run-the-Backend-Server)
 
-Contribution: 2019-02-01 20:03
+8.[Install Frontend Dependencies](INSTALLATION-INSTRUCTIONS.md#Step-8-Install-Frontend-Dependencies)
 
-Contribution: 2019-02-05 20:00
+9.[Run the Frontend Server](INSTALLATION-INSTRUCTIONS.md#Step-9-Run-the-Frontend-Server)
 
-Contribution: 2019-02-05 20:01
+## Docker Compose for local development
 
-Contribution: 2019-02-07 20:00
+- setup additional env variables, if necessary in the below file
 
-Contribution: 2019-02-07 20:01
+```bash
+docker-compose.yml
+```
 
-Contribution: 2019-02-07 20:02
+- After the necessary configurations run below command :
 
-Contribution: 2019-02-07 20:03
+```bash
+docker-compose up -d
+```
 
-Contribution: 2019-02-13 20:00
+This will build the images and bring up the containers for frontend, backend and mongodb.
 
-Contribution: 2019-02-13 20:01
+**_NOTE:_** This docker-compose setup is associated for local development only.
 
-Contribution: 2019-02-13 20:02
+## Contributing
 
-Contribution: 2019-02-13 20:03
+1.[How to contribute](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#how-to-contribute)
 
-Contribution: 2019-02-13 20:04
+2.[Reporting issues](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#reporting-issues)
 
-Contribution: 2019-02-13 20:05
+3.[Working on issues ](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#working-on-issues)
 
-Contribution: 2019-02-13 20:06
+4.[Submitting pull requests](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#submitting-pull-requests)
 
-Contribution: 2019-02-13 20:07
+5.[Commit Guidelines](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#commit-guidelines)
 
-Contribution: 2019-02-15 20:00
+6.[Coding Guidelines](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#coding-guidelines)
 
-Contribution: 2019-02-15 20:01
+7.[Questions](https://github.com/idurar/idurar-erp-crm/blob/master/CONTRIBUTING.md#questions)
 
-Contribution: 2019-02-15 20:02
+## Custom Development Service
 
-Contribution: 2019-02-15 20:03
+Custom Development Service are available : [Get in touch](mailto:hello@idurarapp.com)
 
-Contribution: 2019-02-15 20:04
+## Show your support
 
-Contribution: 2019-02-18 20:00
-
-Contribution: 2019-02-18 20:01
-
-Contribution: 2019-02-18 20:02
-
-Contribution: 2019-02-22 20:00
-
-Contribution: 2019-02-25 20:00
-
-Contribution: 2019-02-25 20:01
-
-Contribution: 2019-02-25 20:02
-
-Contribution: 2019-02-25 20:03
-
-Contribution: 2019-02-27 20:00
-
-Contribution: 2019-02-27 20:01
-
-Contribution: 2019-02-27 20:02
-
-Contribution: 2019-02-27 20:03
-
-Contribution: 2019-02-27 20:04
-
-Contribution: 2019-02-27 20:05
-
-Contribution: 2019-03-01 20:00
-
-Contribution: 2019-03-01 20:01
-
-Contribution: 2019-03-01 20:02
-
-Contribution: 2019-03-01 20:03
-
-Contribution: 2019-03-01 20:04
-
-Contribution: 2019-03-01 20:05
-
-Contribution: 2019-03-01 20:06
-
-Contribution: 2019-03-01 20:07
-
-Contribution: 2019-03-01 20:08
-
-Contribution: 2019-03-01 20:09
-
-Contribution: 2019-03-06 20:00
-
-Contribution: 2019-03-06 20:01
-
-Contribution: 2019-03-06 20:02
-
-Contribution: 2019-03-06 20:03
-
-Contribution: 2019-03-06 20:04
-
-Contribution: 2019-03-06 20:05
-
-Contribution: 2019-03-11 20:00
-
-Contribution: 2019-03-12 20:00
-
-Contribution: 2019-03-12 20:01
-
-Contribution: 2019-03-12 20:02
-
-Contribution: 2019-03-12 20:03
-
-Contribution: 2019-03-12 20:04
-
-Contribution: 2019-03-12 20:05
-
-Contribution: 2019-03-12 20:06
-
-Contribution: 2019-03-12 20:07
-
-Contribution: 2019-03-13 20:00
-
-Contribution: 2019-03-13 20:01
-
-Contribution: 2019-03-13 20:02
-
-Contribution: 2019-03-13 20:03
-
-Contribution: 2019-03-13 20:04
-
-Contribution: 2019-03-13 20:05
-
-Contribution: 2019-03-13 20:06
-
-Contribution: 2019-03-13 20:07
-
-Contribution: 2019-03-19 20:00
-
-Contribution: 2019-03-19 20:01
-
-Contribution: 2019-03-19 20:02
-
-Contribution: 2019-03-19 20:03
-
-Contribution: 2019-03-19 20:04
-
-Contribution: 2019-03-19 20:05
-
-Contribution: 2019-03-19 20:06
-
-Contribution: 2019-03-19 20:07
-
-Contribution: 2019-03-19 20:08
-
-Contribution: 2019-03-20 20:00
-
-Contribution: 2019-03-20 20:01
-
-Contribution: 2019-03-20 20:02
-
-Contribution: 2019-03-20 20:03
-
-Contribution: 2019-03-20 20:04
-
-Contribution: 2019-03-20 20:05
-
-Contribution: 2019-03-20 20:06
-
-Contribution: 2019-03-20 20:07
-
-Contribution: 2019-03-20 20:08
-
-Contribution: 2019-03-20 20:09
-
-Contribution: 2019-03-21 20:00
-
-Contribution: 2019-03-21 20:01
-
-Contribution: 2019-03-21 20:02
-
-Contribution: 2019-03-22 20:00
-
-Contribution: 2019-03-22 20:01
-
-Contribution: 2019-03-22 20:02
-
-Contribution: 2019-03-25 20:00
-
-Contribution: 2019-03-25 20:01
-
-Contribution: 2019-03-25 20:02
-
-Contribution: 2019-03-25 20:03
-
-Contribution: 2019-03-25 20:04
-
-Contribution: 2019-03-25 20:05
-
-Contribution: 2019-03-25 20:06
-
-Contribution: 2019-03-25 20:07
-
-Contribution: 2019-03-25 20:08
-
-Contribution: 2019-03-28 20:00
-
-Contribution: 2019-03-28 20:01
-
-Contribution: 2019-03-28 20:02
-
-Contribution: 2019-03-28 20:03
-
-Contribution: 2019-03-29 20:00
-
-Contribution: 2019-03-29 20:01
-
-Contribution: 2019-03-29 20:02
-
-Contribution: 2019-03-29 20:03
-
-Contribution: 2019-03-29 20:04
-
-Contribution: 2019-04-01 20:00
-
-Contribution: 2019-04-01 20:01
-
-Contribution: 2019-04-01 20:02
-
-Contribution: 2019-04-01 20:03
-
-Contribution: 2019-04-01 20:04
-
-Contribution: 2019-04-01 20:05
-
-Contribution: 2019-04-01 20:06
-
-Contribution: 2019-04-08 20:00
-
-Contribution: 2019-04-08 20:01
-
-Contribution: 2019-04-08 20:02
-
-Contribution: 2019-04-08 20:03
-
-Contribution: 2019-04-08 20:04
-
-Contribution: 2019-04-08 20:05
-
-Contribution: 2019-04-08 20:06
-
-Contribution: 2019-04-08 20:07
-
-Contribution: 2019-04-08 20:08
-
-Contribution: 2019-04-10 20:00
-
-Contribution: 2019-04-10 20:01
-
-Contribution: 2019-04-10 20:02
-
-Contribution: 2019-04-10 20:03
-
-Contribution: 2019-04-10 20:04
-
-Contribution: 2019-04-10 20:05
-
-Contribution: 2019-04-10 20:06
-
-Contribution: 2019-04-10 20:07
-
-Contribution: 2019-04-10 20:08
-
-Contribution: 2019-04-10 20:09
-
-Contribution: 2019-04-11 20:00
-
-Contribution: 2019-04-11 20:01
-
-Contribution: 2019-04-11 20:02
-
-Contribution: 2019-04-12 20:00
-
-Contribution: 2019-04-12 20:01
-
-Contribution: 2019-04-12 20:02
-
-Contribution: 2019-04-12 20:03
-
-Contribution: 2019-04-12 20:04
-
-Contribution: 2019-04-15 20:00
-
-Contribution: 2019-04-15 20:01
-
-Contribution: 2019-04-15 20:02
-
-Contribution: 2019-04-15 20:03
-
-Contribution: 2019-04-16 20:00
-
-Contribution: 2019-04-16 20:01
-
-Contribution: 2019-04-16 20:02
-
-Contribution: 2019-04-16 20:03
-
-Contribution: 2019-04-16 20:04
-
-Contribution: 2019-04-16 20:05
-
-Contribution: 2019-04-16 20:06
-
-Contribution: 2019-04-16 20:07
-
-Contribution: 2019-04-17 20:00
-
-Contribution: 2019-04-17 20:01
-
-Contribution: 2019-04-17 20:02
-
-Contribution: 2019-04-17 20:03
-
-Contribution: 2019-04-17 20:04
-
-Contribution: 2019-04-17 20:05
-
-Contribution: 2019-04-17 20:06
-
-Contribution: 2019-04-23 20:00
-
-Contribution: 2019-04-23 20:01
-
-Contribution: 2019-04-23 20:02
-
-Contribution: 2019-04-23 20:03
-
-Contribution: 2019-04-23 20:04
-
-Contribution: 2019-04-23 20:05
-
-Contribution: 2019-04-23 20:06
-
-Contribution: 2019-04-23 20:07
-
-Contribution: 2019-04-24 20:00
-
-Contribution: 2019-04-25 20:00
-
-Contribution: 2019-04-25 20:01
-
-Contribution: 2019-04-25 20:02
-
-Contribution: 2019-04-25 20:03
-
-Contribution: 2019-04-25 20:04
-
-Contribution: 2019-04-25 20:05
-
-Contribution: 2019-04-29 20:00
-
-Contribution: 2019-04-29 20:01
-
-Contribution: 2019-04-29 20:02
-
-Contribution: 2019-04-29 20:03
-
-Contribution: 2019-04-29 20:04
-
-Contribution: 2019-04-29 20:05
-
-Contribution: 2019-04-30 20:00
-
-Contribution: 2019-05-01 20:00
-
-Contribution: 2019-05-01 20:01
-
-Contribution: 2019-05-01 20:02
-
-Contribution: 2019-05-01 20:03
-
-Contribution: 2019-05-03 20:00
-
-Contribution: 2019-05-03 20:01
-
-Contribution: 2019-05-03 20:02
-
-Contribution: 2019-05-03 20:03
-
-Contribution: 2019-05-03 20:04
-
-Contribution: 2019-05-03 20:05
-
-Contribution: 2019-05-03 20:06
-
-Contribution: 2019-05-03 20:07
-
-Contribution: 2019-05-03 20:08
-
-Contribution: 2019-05-06 20:00
-
-Contribution: 2019-05-06 20:01
-
-Contribution: 2019-05-06 20:02
-
-Contribution: 2019-05-06 20:03
-
-Contribution: 2019-05-06 20:04
-
-Contribution: 2019-05-06 20:05
-
-Contribution: 2019-05-06 20:06
-
-Contribution: 2019-05-07 20:00
-
-Contribution: 2019-05-07 20:01
-
-Contribution: 2019-05-07 20:02
-
-Contribution: 2019-05-07 20:03
-
-Contribution: 2019-05-07 20:04
-
-Contribution: 2019-05-07 20:05
-
-Contribution: 2019-05-07 20:06
-
-Contribution: 2019-05-07 20:07
-
-Contribution: 2019-05-07 20:08
-
-Contribution: 2019-05-13 20:00
-
-Contribution: 2019-05-13 20:01
-
-Contribution: 2019-05-13 20:02
-
-Contribution: 2019-05-13 20:03
-
-Contribution: 2019-05-13 20:04
-
-Contribution: 2019-05-13 20:05
-
-Contribution: 2019-05-13 20:06
-
-Contribution: 2019-05-17 20:00
-
-Contribution: 2019-05-17 20:01
-
-Contribution: 2019-05-17 20:02
-
-Contribution: 2019-05-17 20:03
-
-Contribution: 2019-05-17 20:04
-
-Contribution: 2019-05-20 20:00
-
-Contribution: 2019-05-20 20:01
-
-Contribution: 2019-05-20 20:02
-
-Contribution: 2019-05-20 20:03
-
-Contribution: 2019-05-20 20:04
-
-Contribution: 2019-05-22 20:00
-
-Contribution: 2019-05-22 20:01
-
-Contribution: 2019-05-23 20:00
-
-Contribution: 2019-05-23 20:01
-
-Contribution: 2019-05-23 20:02
-
-Contribution: 2019-05-24 20:00
-
-Contribution: 2019-05-24 20:01
-
-Contribution: 2019-05-24 20:02
-
-Contribution: 2019-05-24 20:03
-
-Contribution: 2019-05-24 20:04
-
-Contribution: 2019-05-24 20:05
-
-Contribution: 2019-05-29 20:00
-
-Contribution: 2019-05-29 20:01
-
-Contribution: 2019-05-29 20:02
-
-Contribution: 2019-05-30 20:00
-
-Contribution: 2019-05-30 20:01
-
-Contribution: 2019-05-30 20:02
-
-Contribution: 2019-05-30 20:03
-
-Contribution: 2019-05-30 20:04
-
-Contribution: 2019-05-30 20:05
-
-Contribution: 2019-05-31 20:00
-
-Contribution: 2019-05-31 20:01
-
-Contribution: 2019-05-31 20:02
-
-Contribution: 2019-05-31 20:03
-
-Contribution: 2019-05-31 20:04
-
-Contribution: 2019-05-31 20:05
-
-Contribution: 2019-05-31 20:06
-
-Contribution: 2019-05-31 20:07
-
-Contribution: 2019-06-03 20:00
-
-Contribution: 2019-06-03 20:01
-
-Contribution: 2019-06-03 20:02
-
-Contribution: 2019-06-03 20:03
-
-Contribution: 2019-06-05 20:00
-
-Contribution: 2019-06-05 20:01
-
-Contribution: 2019-06-05 20:02
-
-Contribution: 2019-06-05 20:03
-
-Contribution: 2019-06-05 20:04
-
-Contribution: 2019-06-05 20:05
-
-Contribution: 2019-06-05 20:06
-
-Contribution: 2019-06-05 20:07
-
-Contribution: 2019-06-06 20:00
-
-Contribution: 2019-06-06 20:01
-
-Contribution: 2019-06-06 20:02
-
-Contribution: 2019-06-06 20:03
-
-Contribution: 2019-06-06 20:04
-
-Contribution: 2019-06-11 20:00
-
-Contribution: 2019-06-11 20:01
-
-Contribution: 2019-06-11 20:02
-
-Contribution: 2019-06-11 20:03
-
-Contribution: 2019-06-11 20:04
-
-Contribution: 2019-06-13 20:00
-
-Contribution: 2019-06-13 20:01
-
-Contribution: 2019-06-13 20:02
-
-Contribution: 2019-06-13 20:03
-
-Contribution: 2019-06-14 20:00
-
-Contribution: 2019-06-14 20:01
-
-Contribution: 2019-06-14 20:02
-
-Contribution: 2019-06-14 20:03
-
-Contribution: 2019-06-14 20:04
-
-Contribution: 2019-06-14 20:05
-
-Contribution: 2019-06-14 20:06
-
-Contribution: 2019-06-14 20:07
-
-Contribution: 2019-06-18 20:00
-
-Contribution: 2019-06-26 20:00
-
-Contribution: 2019-06-26 20:01
-
-Contribution: 2019-06-26 20:02
-
-Contribution: 2019-06-26 20:03
-
-Contribution: 2019-06-26 20:04
-
-Contribution: 2019-06-26 20:05
-
-Contribution: 2019-06-26 20:06
-
-Contribution: 2019-06-27 20:00
-
-Contribution: 2019-06-27 20:01
-
-Contribution: 2019-06-27 20:02
-
-Contribution: 2019-06-27 20:03
-
-Contribution: 2019-06-27 20:04
-
-Contribution: 2019-06-27 20:05
-
-Contribution: 2019-06-27 20:06
-
-Contribution: 2019-06-27 20:07
-
-Contribution: 2019-06-27 20:08
-
-Contribution: 2019-07-01 20:00
-
-Contribution: 2019-07-01 20:01
-
-Contribution: 2019-07-01 20:02
-
-Contribution: 2019-07-01 20:03
-
+Dont forget to give a ⭐️ to this project ... Happy coding!
